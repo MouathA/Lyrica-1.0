@@ -1,4 +1,4 @@
-//Deobfuscated By Mouath#2221 | ????#2221 D:\Game\private 2\False"!
+
 
 package me.d7omz.lyrica;
 
