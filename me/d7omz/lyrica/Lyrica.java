@@ -1,5 +1,3 @@
-
-
 package me.d7omz.lyrica;
 
 import me.d7omz.lyrica.gui.*;
